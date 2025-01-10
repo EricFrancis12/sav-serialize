@@ -1,6 +1,6 @@
 # sav-serialize
 
-Starter code for implimenting serialization/deserialization via binary encoding (`.sav`) using the `serde` and `bincode` libraries. 
+Starter code for implementing serialization/deserialization via binary encoding (`.sav`) using the `serde` and `bincode` libraries. 
 
 ## Usage
 
